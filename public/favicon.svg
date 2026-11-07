@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <clipPath id="squircle">
+      <rect x="0" y="0" width="512" height="512" rx="135" ry="135" />
+    </clipPath>
+    <filter id="waveShadow" x="-10%" y="-10%" width="125%" height="130%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#090E1A" flood-opacity="0.32" />
+    </filter>
+  </defs>
+
+  <g clip-path="url(#squircle)">
+    <!-- Top coral/salmon background -->
+    <rect width="512" height="512" fill="#FA9C91" />
+
+    <!-- Bottom dark midnight navy fill bounded by the wave -->
+    <path
+      d="M 0,274 
+         C 55,270 85,232 118,232 
+         C 148,232 165,268 198,242 
+         C 218,225 238,266 260,250 
+         C 275,238 285,214 300,214 
+         C 328,214 332,252 308,278 
+         C 285,302 272,252 292,228 
+         C 308,210 338,248 375,268 
+         C 425,295 470,248 512,236 
+         L 512,512 
+         L 0,512 
+         Z"
+      fill="#101726"
+    />
+
+    <!-- Calligraphic loop wave stroke with subtle shadow -->
+    <path
+      d="M -5,274 
+         C 55,270 85,232 118,232 
+         C 148,232 165,268 198,242 
+         C 218,225 238,266 260,250 
+         C 275,238 285,214 300,214 
+         C 328,214 332,252 308,278 
+         C 285,302 272,252 292,228 
+         C 308,210 338,248 375,268 
+         C 425,295 470,248 517,236"
+      fill="none"
+      stroke="#101726"
+      stroke-width="22"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      filter="url(#waveShadow)"
+    />
+  </g>
+</svg>

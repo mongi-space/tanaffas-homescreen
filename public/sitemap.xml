@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- ==================== ARABIC VERSION (https://tanaffas.pro/ar/...) ==================== -->
+
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://tanaffas.pro/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tanaffas.pro/ar/" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- بوابة ومجموعة التشخيصات -->
+  <url>
+    <loc>https://tanaffas.pro/ar/diagnostics</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- تشخيص Airless Room -->
+  <url>
+    <loc>https://tanaffas.pro/ar/diagnostics/airless-room</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/airless-room" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/airless-room" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- تشخيص Burnout Barometer -->
+  <url>
+    <loc>https://tanaffas.pro/ar/diagnostics/burnout-barometer</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/burnout-barometer" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/burnout-barometer" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- تشخيص Chaos Tax Calculator -->
+  <url>
+    <loc>https://tanaffas.pro/ar/diagnostics/chaos-tax</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/chaos-tax" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/chaos-tax" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- تشخيص Oxygen Leak Map -->
+  <url>
+    <loc>https://tanaffas.pro/ar/diagnostics/oxygen-leak-map</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/oxygen-leak-map" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/oxygen-leak-map" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- منهجية تنفّس -->
+  <url>
+    <loc>https://tanaffas.pro/ar/method</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/method" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/method" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- الباقات والاشتراكات -->
+  <url>
+    <loc>https://tanaffas.pro/ar/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/pricing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/pricing" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- تواصل معنا -->
+  <url>
+    <loc>https://tanaffas.pro/ar/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/contact" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- شروط الاستخدام -->
+  <url>
+    <loc>https://tanaffas.pro/ar/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/terms" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- سياسة الخصوصية -->
+  <url>
+    <loc>https://tanaffas.pro/ar/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/privacy" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- رؤى تنفّس (Insights) -->
+  <url>
+    <loc>https://tanaffas.pro/ar/insights</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- مقالات رؤى تنفّس -->
+  <url>
+    <loc>https://tanaffas.pro/ar/insights/airless-organization-silent-suffocation</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/airless-organization-silent-suffocation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/airless-organization-silent-suffocation" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/ar/insights/reducing-meeting-bloat-async-first</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/reducing-meeting-bloat-async-first" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/reducing-meeting-bloat-async-first" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/ar/insights/delegation-without-losing-control</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/delegation-without-losing-control" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/delegation-without-losing-control" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/ar/insights/documentation-as-a-scaling-engine</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/documentation-as-a-scaling-engine" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/documentation-as-a-scaling-engine" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/ar/insights/scaling-systems-without-chaos</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/scaling-systems-without-chaos" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/scaling-systems-without-chaos" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ==================== ENGLISH VERSION (https://tanaffas.pro/en/...) ==================== -->
+
+  <!-- Home Page -->
+  <url>
+    <loc>https://tanaffas.pro/en/</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://tanaffas.pro/ar/" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Diagnostics Hub -->
+  <url>
+    <loc>https://tanaffas.pro/en/diagnostics</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Airless Room Diagnostic -->
+  <url>
+    <loc>https://tanaffas.pro/en/diagnostics/airless-room</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/airless-room" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/airless-room" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Burnout Barometer Diagnostic -->
+  <url>
+    <loc>https://tanaffas.pro/en/diagnostics/burnout-barometer</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/burnout-barometer" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/burnout-barometer" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Chaos Tax Calculator -->
+  <url>
+    <loc>https://tanaffas.pro/en/diagnostics/chaos-tax</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/chaos-tax" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/chaos-tax" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Oxygen Leak Map -->
+  <url>
+    <loc>https://tanaffas.pro/en/diagnostics/oxygen-leak-map</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/diagnostics/oxygen-leak-map" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/diagnostics/oxygen-leak-map" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Method -->
+  <url>
+    <loc>https://tanaffas.pro/en/method</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/method" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/method" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Pricing -->
+  <url>
+    <loc>https://tanaffas.pro/en/pricing</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/pricing" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/pricing" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://tanaffas.pro/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/contact" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/contact" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Terms -->
+  <url>
+    <loc>https://tanaffas.pro/en/terms</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/terms" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/terms" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Privacy -->
+  <url>
+    <loc>https://tanaffas.pro/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/privacy" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/privacy" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Insights Journal -->
+  <url>
+    <loc>https://tanaffas.pro/en/insights</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Insights Articles -->
+  <url>
+    <loc>https://tanaffas.pro/en/insights/airless-organization-silent-suffocation</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/airless-organization-silent-suffocation" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/airless-organization-silent-suffocation" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/en/insights/reducing-meeting-bloat-async-first</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/reducing-meeting-bloat-async-first" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/reducing-meeting-bloat-async-first" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/en/insights/delegation-without-losing-control</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/delegation-without-losing-control" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/delegation-without-losing-control" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/en/insights/documentation-as-a-scaling-engine</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/documentation-as-a-scaling-engine" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/documentation-as-a-scaling-engine" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tanaffas.pro/en/insights/scaling-systems-without-chaos</loc>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://tanaffas.pro/ar/insights/scaling-systems-without-chaos" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://tanaffas.pro/en/insights/scaling-systems-without-chaos" />
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>

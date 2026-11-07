@@ -1,0 +1,40 @@
+# robots.txt for https://tanaffas.pro
+User-agent: *
+
+# Allow localized public sections
+Allow: /
+Allow: /ar/
+Allow: /en/
+Allow: /ar/diagnostics
+Allow: /en/diagnostics
+Allow: /ar/diagnostics/
+Allow: /en/diagnostics/
+Allow: /ar/insights
+Allow: /en/insights
+Allow: /ar/insights/
+Allow: /en/insights/
+Allow: /ar/method
+Allow: /en/method
+Allow: /ar/pricing
+Allow: /en/pricing
+Allow: /ar/contact
+Allow: /en/contact
+Allow: /ar/terms
+Allow: /en/terms
+Allow: /ar/privacy
+Allow: /en/privacy
+
+# Disallow private, authenticated and API routes
+Disallow: /admin
+Disallow: /admin/
+Disallow: /dashboard
+Disallow: /dashboard/
+Disallow: /profile
+Disallow: /profile/
+Disallow: /onboarding
+Disallow: /onboarding/
+Disallow: /v1/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://tanaffas.pro/sitemap.xml
